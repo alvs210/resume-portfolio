@@ -1,0 +1,12 @@
+# Site navigation links
+
+- title: About Me
+  url: /posts/
+- title: Resume
+  url: /categories/
+- title: Projects
+  url: /tags/
+- title: Poetry
+  url: /recipes/
+#- title: Search
+  #url: /search/
